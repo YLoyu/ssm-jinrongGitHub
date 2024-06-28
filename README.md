@@ -7,7 +7,7 @@
 - 😄 个人称谓：他/他
 - ⚡ 有趣的事实：我喜欢用代码解决生活中的小问题
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ylony_)
 
 ---
 
