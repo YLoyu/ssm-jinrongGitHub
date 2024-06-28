@@ -1,6 +1,6 @@
 ![Welcome Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F700&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!+;I+am+lonySp+👋;Web3+Developer+🚀)
 
-我是一个 Java 后台开发和 Go 开发的开发者，目前正在学习区块链技术，对 Web3 和去中心化技术充满热情。
+我是一个 Java 和 Go 的开发者，目前正在学习区块链技术🚀
 
 - 🌱 正在学习：Web3 开发、Solidity、区块链技术
 - 💬 欢迎咨询：Java 后台开发、Go 开发、区块链基础知识
