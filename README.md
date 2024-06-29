@@ -1,4 +1,4 @@
-![Welcome Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F700&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!+;I+am+lonySp+👋;Web3+Developer+🚀)
+![Welcome Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F700&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!+;I+am+lony+👋;Web3+Developer+🚀)
 
 我是一个 Java 和 Go 的开发者，目前正在学习区块链技术🚀
 
