@@ -16,7 +16,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonySp&layout=compact&theme=transparent" alt="Top Langs" height="150px" />
     <img src="https://streak-stats.demolab.com/?user=lonySp&theme=transparent" alt="GitHub Streak" height="150px" />
 </p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=lonySp&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
-</p>
